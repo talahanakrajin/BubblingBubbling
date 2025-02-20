@@ -1,7 +1,11 @@
 import java.util.ArrayList;
 import java.util.Random;
 
+
 public class TimeComplexity {
+    /*
+    // i'll just make this two methods a comment so you will focus on the necessary methods
+
     public static void iterateCubes(int n) {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
@@ -19,6 +23,7 @@ public class TimeComplexity {
             }
         }
     }
+    */
 
     public static ArrayList<Integer> generateRandomArray(int n) {
         ArrayList<Integer> list = new ArrayList<>();
